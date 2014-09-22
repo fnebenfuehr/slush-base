@@ -30,19 +30,20 @@
   },
   "homepage": "https://github.com/F1ow/slush-base",
   "dependencies": {
-    "slush": "^1.0.1",
+    "coffee-script": "^1.8.0",
     "gulp": "^3.8.8",
     "gulp-conflict": "^0.2.0",
     "gulp-install": "^0.2.0",
     "gulp-load-plugins": "^0.6.0",
     "gulp-rename": "^1.2.0",
     "gulp-template": "^1.1.0",
-    "inquirer": "^0.7.2",
     "iniparser": "^1.0.5",
+    "inquirer": "^0.7.2",
+    "slush": "^1.0.1",
     "underscore.string": "^2.3.3"
   },
   "devDependencies": {
-      "mocha": "~1.14.0",
-      "chai": "~1.8.0"
+    "mocha": "~1.14.0",
+    "chai": "~1.8.0"
   }
 }
