@@ -30,3 +30,9 @@ cd my-app
 
 slush base
 ```
+
+Start watching your files:
+
+```bash
+npm start
+```
