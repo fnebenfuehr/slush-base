@@ -1,6 +1,6 @@
 {
   "name": "slush-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A slush generator for applications written in jade, stylus and coffeescript.",
   "main": "slushfile.js",
   "directories": {
