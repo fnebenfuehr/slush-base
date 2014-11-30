@@ -36,3 +36,9 @@ Start watching your files:
 ```bash
 npm start
 ```
+
+If an error occurs, after runing `npm start`, try following:
+```bash
+npm install cult -g
+```
+
