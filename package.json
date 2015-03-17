@@ -23,7 +23,11 @@
     "browserify",
     "browsersync"
   ],
-  "author": "Florian Nebenfuehr",
+  "author": {
+    "name": "Florian Nebenfuehr",
+    "email": "florian@4com.at",
+    "url": "http://4com.at"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/F1ow/slush-base/issues"
